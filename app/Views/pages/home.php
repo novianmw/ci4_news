@@ -1,0 +1,1 @@
+"Hello world. INI ADALAH MODE HOME"
